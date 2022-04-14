@@ -1,0 +1,6 @@
+framework module Pods_Parental_ControlTests {
+  umbrella header "Pods-Parental ControlTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
